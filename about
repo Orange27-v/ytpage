@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me - Your Name</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="skills.html">Skills</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- About Section -->
+    <section id="about">
+        <h1>About Me</h1>
+        <p>Hello! I'm Your Name, a passionate developer with expertise in web development, data analysis, and more.</p>
+        <img src="https://i.imgur.com/your-image-link.jpg" alt="Your Profile Picture" style="width: 100%; height: 300px; object-fit: cover;">
+        <p>I have [number] years of experience in developing scalable and efficient solutions. My passion lies in creating innovative and user-friendly applications.</p>
+        <button><a href="contact.html">Get in Touch</a></button>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li>
+                <h3>Degree Name</h3>
+                <p>University Name, Graduation Date</p>
+            </li>
+            <li>
+                <h3>Certificate Name</h3>
+                <p>Institution Name, Completion Date</p>
+            </li>
+        </ul>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+            <li>
+                <h3>Job Title</h3>
+                <p>Company Name, Employment Dates</p>
+                <p>Job Description</p>
+            </li>
+            <li>
+                <h3>Job Title</h3>
+                <p>Company Name, Employment Dates</p>
+                <p>Job Description</p>
+            </li>
+        </ul>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+    </footer>
+</body>
+</html>
